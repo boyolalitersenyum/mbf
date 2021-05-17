@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
-# Senin, 12 April 2021
-# Author: IqbalDev
+# Senin, 17 Mei 2021
+# Penulis: IqbalDev
 # Tools: MBF Premium
 # Versi: 0.1
 # Jangan Main Recode Sembarangan yaa Ngab!
